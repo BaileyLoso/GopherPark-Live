@@ -1,0 +1,6 @@
+root = true
+
+[*]
+# Omit end_of_line to preserve existing line endings
+insert_final_newline = false
+trim_trailing_whitespace = false
